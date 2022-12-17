@@ -1,1 +1,15 @@
 # Django-All-setting-Documents
+![admin - go to Django Adminstrator](https://user-images.githubusercontent.com/91686685/208240079-5558e766-c36b-4ec8-b560-97ec42aa1bb3.png)
+![Django Adminstrator me model entry](https://user-images.githubusercontent.com/91686685/208240085-671a7d21-3d65-4aba-822f-1a6e84064fec.png)
+![Editing on Django Adminstrator](https://user-images.githubuse![image of runserver on port](https://user-images.githubusercontent.com/91686685/208240090-b05c751e-06cb-4e54-b8e8-9feabda38ef1.png)
+rcontent.com/91686685/208240088-f6688503-c82d-43c5-8ee6-61f9c7a81e40.png)
+![models py me Entry](https://user-images.githubusercontent.com/91686685/208240091-23cf706b-c60c-4bbd-9fb8-86c2b5bda676.png)
+![My-Sql databae(XAMMP-Server)](https://user-images.githubusercontent.com/91686685/208240092-9101666b-d0a7-4d18-9a9c-2598002aaa0f.png)
+![pip install django](https://user-images.githubusercontent.com/91686685/208240096-5bbf22c7-ccb7-4cf7-b5c4-5272b0fc12dc.png)
+![python manage py createsuperuser](https://user-images.githubusercontent.com/91686685/208240101-f8f01875-92e6-4113-8269-38b04b1e52fe.pn![start dja![tablecreated in MySql](https://user-images.githubusercontent.com/91686685/208240128-8b9dc406-fa76-4921-a26a-e8b903ebcf19.png)
+ngo project](https://user-images.githubusercontent.com/91686685/208240124-252264de-4d4c-4c5c-adc1-4c335a94c33d.png)
+g)![py![Setting py me setting](https://user-images.githubusercontent.com/91686685/208240120-053429b0-4262-4650-bb05-3f076288212a.png)
+thon mange py startapp APPNAME](https://user-images.githubusercontent.com/91686685/208240116-3fa19bb3-9a91-4cae-810f-9c84f4b56cc5.png)
+
+![python manage py makemigrations](https://user-images.githubusercontent.![python manage py runserver](https://user-images.githubusercontent.com/91686685/208240110-aaeae1ab-b652-4a5b-8ae6-9a0e406c3bf9.png)
+com/91686685/208240106-37b9aec0-959c-4304-a66d-5270e4c021dd.jpg)
